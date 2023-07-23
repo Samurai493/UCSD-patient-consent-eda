@@ -1,0 +1,12 @@
+.idea
+.ipynb_checkpoints
+
+*.iml
+*.pyc
+*.bin
+*.npy
+**-checkpoint.ipynb
+**.pth
+**.fth
+
+data
